@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler minVersion="1.0.0">
+<!-- <DecentSampler pluginVersion="1"> -->
+<groups>
+<group>
+    <sample rootNote="39" loNote="39" hiNote="45" loVel="1" hiVel="119" path="Samples/Eb-p.aiff"/>     
+    <sample rootNote="39" loNote="39" hiNote="45" loVel="120" hiVel="127" path="Samples/Eb-f.aiff"/>  
+    <sample rootNote="46" loNote="46" hiNote="52" loVel="1" hiVel="119" path="Samples/Bb-p.aiff"/>   
+    <sample rootNote="46" loNote="46" hiNote="52" loVel="120" hiVel="127" path="Samples/Bb-f.aiff"/>  
+    <sample rootNote="53" loNote="53" hiNote="59" loVel="1" hiVel="119" path="Samples/F-p.aiff" />
+    <sample rootNote="53" loNote="53" hiNote="59" loVel="120" hiVel="127" path="Samples/F-f.aiff" /> 
+    <sample rootNote="60" loNote="60" hiNote="66" loVel="1" hiVel="119" path="Samples/C-p.aif" />   
+    <sample rootNote="60" loNote="60" hiNote="66" loVel="120" hiVel="127" path="Samples/C-f.aif" />
+    <sample rootNote="67" loNote="67" hiNote="73" loVel="1" hiVel="119" path="Samples/G-p.aiff" />   
+    <sample rootNote="67" loNote="67" hiNote="73" loVel="120" hiVel="127" path="Samples/G-f.aiff" />
+    <sample rootNote="74" loNote="74" hiNote="80" loVel="1" hiVel="119" path="Samples/D-p.aiff" />
+    <sample rootNote="74" loNote="74" hiNote="80" loVel="120" hiVel="127" path="Samples/D-f.aiff" />
+    <sample rootNote="81" loNote="81" hiNote="87" loVel="1" hiVel="119" path="Samples/A-p.aiff" />   
+    <sample rootNote="81" loNote="81" hiNote="87" loVel="120" hiVel="127" path="Samples/A-f.aiff"/> 
+    <sample rootNote="88" loNote="88" hiNote="94" loVel="1" hiVel="119" path="Samples/E-p.aiff" />
+    <sample rootNote="88" loNote="88" hiNote="94" loVel="120" hiVel="127" path="Samples/E-f.aiff" /> 
+    <sample rootNote="95" loNote="95" hiNote="102" loVel="1" hiVel="119" path="Samples/B-p.aiff"/>    
+    <sample rootNote="95" loNote="95" hiNote="102" loVel="120" hiVel="127" path="Samples/B-f.aiff" />
+</group>
+</groups>
+
+</DecentSampler>
